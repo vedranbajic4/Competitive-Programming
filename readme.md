@@ -17,8 +17,6 @@ Python script is used to scrap and update this *Readme file*, modifiyng my ratin
 
 ## CodeForces
 
-![Codeforces](https://img.shields.io/badge/Codeforces-1712-darkblue)
-
 - **Username:** [veks_the_boss]
 - **Current Rating:** [1686]
 - **Max Rating:** [1712]
@@ -33,7 +31,6 @@ Below is the python script generated plot, showing my contest rating changes
 
 
 ## CodeChef
-![CodeChef](https://img.shields.io/badge/CodeChef-1837-purple)
 
 - **Username:** [veks_the_boss]
 - **Current Rating:** [1793]
@@ -76,7 +73,7 @@ I have been on 2 finals: 2023. and 2022.
 Because of my passion for competitive programming and algoriths, I have been on several more contests that 
 are organized by IT companies. 
 
-![Proggy Buggy](images/proggy.png)
+![Proggy Buggy](images/proggy.PNG)
 
 ![reply](images/reply.PNG)
 
