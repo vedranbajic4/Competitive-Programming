@@ -18,12 +18,13 @@ Python script is used to scrap and update this *Readme file*, modifiyng my ratin
 ## CodeForces
 
 - **Username:** [veks_the_boss]
-- **Current Rating:** [1686]
-- **Max Rating:** [1712]
+- **Current Rating:** [1783]
+- **Max Rating:** [1783]
 - **Rank:** [expert]
-- **Contests Participated:** [77]
-- **Problems Solved:** [381]
-- **Profile Link:** [[profile](https://codeforces.com/profile/veks_the_boss)]
+- **Contests Participated:** [78]
+- **Problems Solved:** [385]
+
+
 
 Below is the python script generated plot, showing my contest rating changes
 
@@ -33,14 +34,9 @@ Below is the python script generated plot, showing my contest rating changes
 ## CodeChef
 
 - **Username:** [veks_the_boss]
-- **Current Rating:** [1793]
+- **Current Rating:** [1794]
 - **Contests Participated:** [60]
 - **Problems Solved:** [317]
-- **Profile Link:** [[profile](https://www.codechef.com/users/veks_the_boss)]
-
-
-## LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/veks_the_boss?theme=dark&font=Montserrat&extension=activity)](https://leetcode.com/veks_the_boss/)
 
 ## BubbleCup
 
@@ -50,10 +46,8 @@ year and has 2 phases: **Qualification round** (online), and **Final round**(in 
 
 I've been competing in both categories, through whole high school (with Nemanja Majski and Aleksandar Gubica) and now my current team is with two colleague from University Lazar and Milan Sazdov.
 
-![Finale High School](images/buble_cup_microsoft_serbia_1.jpg)
-*Me and my team in Rising Stars Final Round, 2023.*
 
->**Note** + Image from last year + certificates
+>**Note** Certificate
 
 ## CodeIT
 
@@ -63,10 +57,8 @@ competitors from Bulgaria and the world. 6 online rounds, 12 finalists, many par
 
 I have been on 2 finals: 2023. and 2022.
 
-![Finale](images/sofia,_code_IT_finale.jpg)
-*Sofia 2023.*
 
->**Note** + Certificate
+>**Note** Certificate
 
 ## Others
 
@@ -74,6 +66,8 @@ Because of my passion for competitive programming and algoriths, I have been on 
 are organized by IT companies. 
 
 ![Proggy Buggy](images/proggy.PNG)
+
+![Proggy Buggy](images/proggy2.PNG)
 
 ![reply](images/reply.PNG)
 

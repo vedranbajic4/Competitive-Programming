@@ -145,15 +145,21 @@ def update_readme(cf, cc):
     with open('Readme.md', 'r', encoding='utf-8', errors='replace') as file:
         lines = file.readlines()
 
-    lines[22] = '- **Current Rating:** [' + str(cf['rating']) + ']\n'
-    lines[23] = '- **Max Rating:** [' + str(cf['max_rating']) + ']\n'
-    lines[24] = '- **Rank:** [' + str(cf['rank']) + ']\n'
-    lines[25] = '- **Contests Participated:** [' + str(cf['contests']) + ']\n'
-    lines[26] = '- **Problems Solved:** [' + str(cf['problems']) + ']\n'
 
-    lines[38] = '- **Current Rating:** [' + str(cc['rating']) + ']\n'
-    lines[39] = '- **Contests Participated:** [' + str(cc['contests_participated']) + ']\n'
-    lines[40] = '- **Problems Solved:** [' + str(cc['problems_solved']) + ']\n'
+    #print(lines[20])
+    lines[20] = '- **Current Rating:** [' + str(cf['rating']) + ']\n'
+    #print(lines[20])
+
+    lines[21] = '- **Max Rating:** [' + str(cf['max_rating']) + ']\n'
+    lines[22] = '- **Rank:** [' + str(cf['rank']) + ']\n'
+    lines[23] = '- **Contests Participated:** [' + str(cf['contests']) + ']\n'
+    lines[24] = '- **Problems Solved:** [' + str(cf['problems']) + ']\n\n\n'
+
+    #print(lines[36])
+    #print(str(cc['rating']))
+    lines[34] = '- **Current Rating:** [' + str(cc['rating']) + ']\n'
+    lines[35] = '- **Contests Participated:** [' + str(cc['contests_participated']) + ']\n'
+    lines[36] = '- **Problems Solved:** [' + str(cc['problems_solved']) + ']\n'
 
     # Write the updated content back to the file
     with open('Readme.md', 'w', encoding='utf-8') as file:
