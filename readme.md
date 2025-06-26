@@ -18,11 +18,13 @@ Python script is used to scrap and update this *Readme file*, modifiyng my ratin
 ## CodeForces
 
 - **Username:** [veks_the_boss]
-- **Current Rating:** [1783]
-- **Max Rating:** [1783]
+- **Current Rating:** [1799]
+- **Max Rating:** [1799]
 - **Rank:** [expert]
-- **Contests Participated:** [78]
-- **Problems Solved:** [385]
+- **Contests Participated:** [83]
+- **Problems Solved:** [414]
+
+
 
 
 
@@ -32,9 +34,9 @@ Below is the python script generated plot, showing my contest rating changes
 
 
 ## CodeChef
-
-- **Username:** [veks_the_boss]
 - **Current Rating:** [1794]
+- **Contests Participated:** [60]
+- **Problems Solved:** [346]
 - **Contests Participated:** [60]
 - **Problems Solved:** [317]
 
